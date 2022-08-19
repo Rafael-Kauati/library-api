@@ -8,6 +8,7 @@ import java.time.LocalDate;
 import java.util.Calendar;
 import java.util.List;
 
+@Deprecated
 @Configuration
 public class BookConfig {
 
